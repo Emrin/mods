@@ -5,11 +5,12 @@ SkipTheIntro > Finding application window...
 SkipTheIntro > FindWindowExA: found window handle
 SkipTheIntro > Activating SkipTheIntro...
 SkipTheIntro > Process name: eldenring.exe
-SkipTheIntro > Process ID: 33300
-SkipTheIntro > Process base address: 0x7FF74B650000
+SkipTheIntro > Process ID: 30956
+SkipTheIntro > Process base address: 0x7FF601580000
 SkipTheIntro > Pattern: 0xc6 ? ? ? ? ? 0x1 ? 0x3 0x0 0x0 0x0 ? 0x8b ? 0xe8 ? ? ? ? 0xe9 ? ? ? ? ? 0x8d 
-SkipTheIntro > Checking region: 00007FF74B650000
-SkipTheIntro > Found signature at 00007FF74C0DFAB9
+SkipTheIntro > Checking region: 00007FF601580000
+SkipTheIntro > Checking region: 00007FF601581000
+SkipTheIntro > Found signature at 00007FF60200FAB9
 SkipTheIntro > Bytes at address: 0x74 
 SkipTheIntro > New bytes: 0x90 0x90 
 SkipTheIntro > Bytes match
